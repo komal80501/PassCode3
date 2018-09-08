@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="tooltipForegroundColor">@color/blue</item>
+        <item name="colorPrimaryDark">@color/new_actionBar</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="colorPrimary">@color/new_actionBar</item>
+    </style>
+
+    <style name="KDialog" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/new_actionBar</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="colorPrimary">@color/new_actionBar</item>
+    </style>
+
+</resources>

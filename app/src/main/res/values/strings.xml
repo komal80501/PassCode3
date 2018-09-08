@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">PASS CODE</string>
+    <string name="button_add_new"> + Add New Pass Code </string>
+    <string name="save">SAVE</string>
+    <string name="button_timeslot">+ TIME SLOT</string>
+    <string name="txt_validon">VALID ON</string>
+    <string name="txt_every_day">EVERYDAY</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tus">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="txthint">ENTER NAME</string>
+    <string name="txtType">TYPE</string>
+    <string name="txtValidBetween">VALID BETWEEN</string>
+    <string name="txtStartTime">START TIME</string>
+    <string name="txtEnd">END TIME</string>
+    <string name="textViewSTART">09:30 AM</string>
+    <string name="textViewEND">11:00 AM</string>
+    <string name="enterPass">ENTER PASS CODE</string>
+    <string name="re_pass">RE- ENTER PASS CODE</string>
+    <string name="btnsave">SAVE</string>
+    <string name="txtValid">VALID ON</string>
+    <string name="checkBox">EVERYDAY</string>
+    <string name="txtPassCodeName">PassCode Name</string>
+    <string name="space">-</string>
+    <string name="rc">)</string>
+    <string name="lc">(</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="share">SHARE</string>
+    <string name="passcode">PASS CODE</string>
+    <string name="name">NAME</string>
+
+</resources>

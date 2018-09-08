@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6040ff</color>
+    <color name="colorPrimaryDark">#0c0593</color>
+    <color name="colorAccent">#e2e58ed3</color>
+
+    <color name="btnTxtColor">#e96417</color>
+    <color name="text_color_primary">#dd0c1089</color>
+    <color name="new_actionBar">#ffffff</color>
+    <color name="new_window">#efefef</color>
+    <color name="blue">#152cae</color>
+</resources>
